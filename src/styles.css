@@ -1,0 +1,31 @@
+.patients-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .rs-table {
+    border-radius: 8px;
+  }
+  
+  .rs-table-header-cell,
+  .rs-table-cell {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .rs-panel {
+    max-width: 80%;
+    margin: auto;
+  }
+  
+  .rs-btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+    color: white;
+  }
+  
